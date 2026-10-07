@@ -20,8 +20,6 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
   - Passionate about getaways and traveling to discover new places.
   - Sports enthusiast: padel, mountain biking (MTB), and gym workouts.
 
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -36,8 +34,10 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+==========================================================================================================================================================================================================================
+
 ### Sobre mí
-¡Hola! 👋 Soy **José Antonio Pastor Rivera**, estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Apasionado del desarrollo de software, la creación de soluciones funcionales y la producción musical techno.
+¡Hola! 👋 Soy **José Antonio Pastor Rivera**, estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Apasionado del desarrollo de software y programación.
 
 - 🔭 **I’m currently working on:** 
   - Una aplicación personalizada de registro diario para control de diabetes.
@@ -58,9 +58,7 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
   - Apasionado de las escapadas y de viajar para descubrir nuevos sitios.
   - Aficionado al pádel, ciclismo y gimnasio. 
  
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 🛠️ Tech Stack & Tools
+ ### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
