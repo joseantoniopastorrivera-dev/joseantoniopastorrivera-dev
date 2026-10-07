@@ -34,8 +34,7 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-==========================================================================================================================================================================================================================
-
+============================================================================================
 ### Sobre mí
 ¡Hola! 👋 Soy **José Antonio Pastor Rivera**, estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Apasionado del desarrollo de software y programación.
 
