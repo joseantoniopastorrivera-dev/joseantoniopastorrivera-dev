@@ -38,19 +38,19 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
 ### Sobre mí
 ¡Hola! 👋 Soy **José Antonio Pastor Rivera**, estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Apasionado del desarrollo de software y programación.
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **Actualmente estoy trabajando en:** 
   - Una aplicación personalizada de registro diario para control de diabetes.
   - Un videojuego estilo Pokémon desarrollado con **Unity** para clase.
   - Mi Proyecto de Fin de Grado (TFG): un sistema de recuperación de objetos perdidos mediante códigos QR asociados a bases de datos.
-- 🌱 **I’m currently learning:** 
+- 🌱 **En este momento estoy aprendiendo:** 
   - Competencias de 2º de DAM (Acceso a Datos, Ciberseguridad, Programación Multimedia y Dispositivos Móviles, Sistemas de Gestión Empresarial y Desarrollo de Interfaces).
   - Itinerarios y skill badges de Inteligencia Artificial en Google Cloud Skills Boost, con la ilusión de enfocar mi futuro profesional hacia el entrenamiento de modelos de IA.
-- 💼 **I’m looking for / Open to work:** **Buscando prácticas para este año** en desarrollo de software, bases de datos o entornos tecnológicos. ¡Abierto a nuevas oportunidades profesionales!
-- 👯 **I’m looking to collaborate on:** Proyectos de desarrollo de software, aplicaciones multiplataforma o iniciativas tecnológicas interesantes.
-- 💬 **Ask me about:** Java, Python, SQL/MySQL, desarrollo de interfaces con Apache NetBeans, desarrollo con Unity o mis repositorios de clase.
-- 📫 **How to reach me:** A través de mi correo profesional o consultando mis repositorios de código.
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:**
+- 💼 **Estoy buscando:** **Buscando prácticas para este año** en desarrollo de software, bases de datos o entornos tecnológicos. ¡Abierto a nuevas oportunidades profesionales!
+- 👯 **Me gustaría colaborar en:** Proyectos de desarrollo de software, aplicaciones multiplataforma o iniciativas tecnológicas interesantes.
+- 💬 **Preguntame sobre:** Java, Python, SQL/MySQL, desarrollo de interfaces con Apache NetBeans, desarrollo con Unity o mis repositorios de clase.
+- 📫 **Como encontrarme:** A través de mi correo profesional o consultando mis repositorios de código.
+- 😄 **Pronombres:** He/Him
+- ⚡ **Cosas curiosas:**
   - DJ de techno y creador del podcast *WeekCast* bajo el alias **[@derHirteMusic](https://www.youtube.com/@derHirtemusic)**.
   - Jugador de League of Legends y Wild Rift (Master II).
   - Colíder de Clash of Clans (Leyend III). Maxed account.
