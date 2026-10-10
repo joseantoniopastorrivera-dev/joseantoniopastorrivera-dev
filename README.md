@@ -1,9 +1,9 @@
 ### About Me
 Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Application Development (DAM) student at *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Software development and programming enthusiast.
 
-- 🔭 **I’m currently working on:** 
-  - A custom daily tracking app for diabetes management (nutrition, insulin, and tracking).
-  - A Pokémon-style video game developed with **Unity** for class.
+- 🔭 I’m currently working on:
+  - **[Federico (Diabetes-Tracker-App)](https://github.com/joseantoniopastorrivera-creator/Diabetes-Tracker-App):** An intelligent multimodal assistant for Telegram built with Google Gemini API, SQLite, and Python, designed for daily clinical and nutritional tracking.
+  - A Pokémon-style video game developed with Unity for class.
   - My Final Degree Project (TFG): a lost-and-found items recovery system using QR codes linked to databases.
 - 🌱 **I’m currently learning:** 
   - Advanced 2nd year DAM technologies (Data Access, Cybersecurity, Multimedia Programming and Mobile Devices, Enterprise Management Systems, and Interface Development).
@@ -25,6 +25,9 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google GenAI" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
@@ -38,10 +41,10 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
 ### Sobre mí
 ¡Hola! 👋 Soy **José Antonio Pastor Rivera**, estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Apasionado del desarrollo de software y programación.
 
-- 🔭 **Actualmente estoy trabajando en:** 
-  - Una aplicación personalizada de registro diario para control de diabetes.
-  - Un videojuego estilo Pokémon desarrollado con **Unity** para clase.
-  - Mi Proyecto de Fin de Grado (TFG): un sistema de recuperación de objetos perdidos mediante códigos QR asociados a bases de datos.
+- 🔭 Actualmente estoy trabajando en:
+  * **[Federico (Diabetes-Tracker-App)](https://github.com/joseantoniopastorrivera-creator/Diabetes-Tracker-App):** Asistente inteligente multimodal para Telegram desarrollado con la API de Google Gemini, SQLite y Python, enfocado en el seguimiento clínico y nutricional diario.
+  * Un videojuego estilo Pokémon desarrollado con Unity para clase.
+  * Mi Proyecto de Fin de Grado (TFG): un sistema de recuperación de objetos perdidos mediante códigos QR asociados a bases de datos.
 - 🌱 **En este momento estoy aprendiendo:** 
   - Competencias de 2º de DAM (Acceso a Datos, Ciberseguridad, Programación Multimedia y Dispositivos Móviles, Sistemas de Gestión Empresarial y Desarrollo de Interfaces).
   - Itinerarios y skill badges de Inteligencia Artificial en Google Cloud Skills Boost, con la ilusión de enfocar mi futuro profesional hacia el entrenamiento de modelos de IA.
@@ -62,6 +65,9 @@ Hi! 👋 I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Applicati
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google GenAI" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
