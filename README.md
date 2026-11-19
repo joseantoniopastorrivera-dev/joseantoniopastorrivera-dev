@@ -3,7 +3,7 @@ Hi! I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Application De
 
 - 🔭 **I’m currently working on:**
   - **[Federico (diabetes-tracker-app)](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app):** An intelligent multimodal assistant for Telegram built with the Google Gemini API, SQLite, and Python, designed for daily clinical and nutritional tracking.
-  - **A Pokémon-style video game in Unity 6 and C#:** a class project at an early stage. The C# and Unity groundwork is in [my PMDM repository](https://github.com/joseantoniopastorrivera-dev/programacion-multimedia-y-dispositivos-moviles), and I plan to keep building it on my own.
+  - **A Pokémon-style video game in Unity 6 and C#:** a class project at an early stage. The C# and Unity groundwork is in [my PMDM repository](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming), and I plan to keep building it on my own.
   - **My Final Degree Project (TFG):** a lost-and-found items recovery system using QR codes linked to databases.
 - 🌱 **I’m currently learning:**
   - 2nd year DAM technologies: Data Access (files, JDBC), Services and Processes (processes and threads in Java), Interface Development (Swing with NetBeans), Multimedia and Mobile Programming (C#, Unity), Enterprise Management Systems (Odoo 17), Cybersecurity (Python, Docker), and Digitalization.
@@ -83,7 +83,7 @@ Hi! I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Application De
 
 - 🔭 **Actualmente estoy trabajando en:**
   - **[Federico (diabetes-tracker-app)](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app):** Asistente inteligente multimodal para Telegram desarrollado con la API de Google Gemini, SQLite y Python, enfocado en el seguimiento clínico y nutricional diario.
-  - **Un videojuego estilo Pokémon en Unity 6 y C#:** proyecto de clase en fase inicial. La base de C# y Unity está en [mi repositorio de PMDM](https://github.com/joseantoniopastorrivera-dev/programacion-multimedia-y-dispositivos-moviles) y quiero seguir desarrollándolo por mi cuenta.
+  - **Un videojuego estilo Pokémon en Unity 6 y C#:** proyecto de clase en fase inicial. La base de C# y Unity está en [mi repositorio de PMDM](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming) y quiero seguir desarrollándolo por mi cuenta.
   - **Mi Proyecto de Fin de Grado (TFG):** un sistema de recuperación de objetos perdidos mediante códigos QR asociados a bases de datos.
 - 🌱 **En este momento estoy aprendiendo:**
   - Tecnologías de 2º de DAM: Acceso a Datos (ficheros, JDBC), Programación de Servicios y Procesos (procesos e hilos en Java), Desarrollo de Interfaces (Swing con NetBeans), Programación Multimedia y Dispositivos Móviles (C#, Unity), Sistemas de Gestión Empresarial (Odoo 17), Ciberseguridad (Python, Docker) y Digitalización.
