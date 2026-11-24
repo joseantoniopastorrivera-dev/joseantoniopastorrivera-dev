@@ -19,7 +19,7 @@
 > *Sorted by last push · updated daily*
 
 <!-- projects starts -->
-* [business-management-systems](https://github.com/joseantoniopastorrivera-dev/business-management-systems) - ERP coursework with Odoo 17: installation, configuration, modules and custom development… · `Python` · 2026-11-24
+* [business-management-systems](https://github.com/joseantoniopastorrivera-dev/business-management-systems) - ERP coursework with Odoo 17: installation, configuration, modules and custom development… · `JavaScript` · 2026-11-24
 * [github-workflow-lab](https://github.com/joseantoniopastorrivera-dev/github-workflow-lab) - Lab to practice branches, issues, pull requests, merges and CI with git and gh · 2026-11-24
 * [diabetes-tracker-app](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app) - Telegram bot that logs diabetes data from text, voice notes and sensor screenshots with… · `Python` · 2026-11-24
 * [derHirte-project](https://github.com/joseantoniopastorrivera-dev/derHirte-project) - Official derHirte hub: website, WeekCast podcast resources and project materials · `HTML` · 2026-11-24
