@@ -1,0 +1,35 @@
+diff --git a/Dockerfile b/Dockerfile
+index 3ff5209..5826301 100644
+--- a/Dockerfile
++++ b/Dockerfile
+@@ -5,6 +5,10 @@ FROM node:20-bookworm-slim
+ COPY . /metrics
+ WORKDIR /metrics
+ 
++# Skip Puppeteer's own Chrome download and use the system Chrome instead
++ENV PUPPETEER_SKIP_DOWNLOAD=true
++ENV PUPPETEER_BROWSER_PATH=google-chrome-stable
++
+ # Setup
+ RUN chmod +x /metrics/source/app/action/index.mjs \
+   # Install latest chrome dev package, fonts to support major charsets and skip chromium download on puppeteer install
+@@ -19,7 +23,7 @@ RUN chmod +x /metrics/source/app/action/index.mjs \
+   && apt-get install -y curl unzip \
+   && curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=/usr/local sh \
+   # Install ruby to support github licensed gem
+-  && apt-get install -y ruby-full git g++ cmake pkg-config libssl-dev \
++  && apt-get install -y ruby-full git g++ cmake pkg-config libssl-dev xz-utils \
+   && gem install licensed \
+   # Install python for node-gyp
+   && apt-get install -y python3 \
+@@ -29,9 +33,5 @@ RUN chmod +x /metrics/source/app/action/index.mjs \
+   && npm ci \
+   && npm run build
+ 
+-# Environment variables
+-ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD true
+-ENV PUPPETEER_BROWSER_PATH "google-chrome-stable"
+-
+ # Execute GitHub action
+-ENTRYPOINT node /metrics/source/app/action/index.mjs
++ENTRYPOINT ["node", "/metrics/source/app/action/index.mjs"]

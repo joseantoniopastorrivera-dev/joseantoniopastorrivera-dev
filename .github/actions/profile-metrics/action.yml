@@ -1,0 +1,49 @@
+# Render one Metrics card into /metrics_renders/<card>.svg on the runner.
+# All cards share these settings; each step only says which card it wants.
+name: Render profile card
+description: Render one lowlighter/metrics SVG card without committing it.
+
+inputs:
+  card:
+    description: Card name, also used as the SVG file name.
+    required: true
+  base:
+    description: Metrics base sections to show (empty for plugin-only cards).
+    default: ""
+  token:
+    description: Classic personal access token with no scopes (public data only).
+    required: true
+
+runs:
+  using: composite
+  steps:
+    # Pinned to the commit of upstream PR 1834, which fixes the achievements,
+    # activity and habits plugins. The image comes from build-image.sh.
+    - uses: lowlighter/metrics@1e49d0b8b932624dd7762147e35ccc137eda09f1
+      with:
+        use_prebuilt_image: no
+        token: ${{ inputs.token }}
+        user: joseantoniopastorrivera-dev
+        output_action: none
+        filename: ${{ inputs.card }}.svg
+        template: classic
+        base: ${{ inputs.base }}
+        repositories: 30
+        repositories_batch: 15
+        config_timezone: Europe/Madrid
+        plugins_errors_fatal: yes
+        retries_delay: 10
+        plugin_isocalendar: ${{ inputs.card == 'calendar' }}
+        plugin_isocalendar_duration: half-year
+        plugin_languages: ${{ inputs.card == 'languages' }}
+        plugin_followup: ${{ inputs.card == 'languages' }}
+        plugin_habits: ${{ inputs.card == 'habits' }}
+        plugin_habits_from: 200
+        plugin_habits_days: 14
+        plugin_habits_charts: yes
+        plugin_habits_trim: yes
+        plugin_achievements: ${{ inputs.card == 'achievements' }}
+        plugin_achievements_threshold: B
+        plugin_achievements_secrets: yes
+        plugin_achievements_display: compact
+        plugin_achievements_limit: 0

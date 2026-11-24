@@ -1,35 +1,100 @@
-### 👋 About Me
-Hi! I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Application Development (DAM) student at *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Software development and programming enthusiast.
+# José Antonio Pastor Rivera
 
-- 🔭 **I’m currently working on:**
-  - **[Federico (diabetes-tracker-app)](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app):** An intelligent multimodal assistant for Telegram built with the Google Gemini API, SQLite, and Python, designed for daily clinical and nutritional tracking.
-  - **A Pokémon-style video game in Unity 6 and C#:** a class project at an early stage. The C# and Unity groundwork is in [my PMDM repository](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming), and I plan to keep building it on my own.
-  - **My Final Degree Project (TFG):** a lost-and-found items recovery system using QR codes linked to databases.
-- 🌱 **I’m currently learning:**
-  - 2nd year DAM technologies: Data Access (files, JDBC), Services and Processes (processes and threads in Java), Interface Development (Swing with NetBeans), Multimedia and Mobile Programming (C#, Unity), Enterprise Management Systems (Odoo 17), Cybersecurity (Python, Docker), and Digitalization.
-  - Artificial Intelligence pathways and skill badges on Google Cloud Skills Boost, with the ambition of steering my professional career toward training AI models.
-- 💼 **Open to work:** **Seeking internships for this year** in software development, databases, or tech environments. Open to new professional opportunities!
-- 👯 **I’m looking to collaborate on:** Software development projects, cross-platform applications, or interesting tech initiatives.
-- 💬 **Ask me about:** Java (JDBC, concurrency, Swing), Python, SQL/MySQL, Unity, Claude Code skills, or my class repositories.
-- 📫 **How to reach me:** [joseantoniopastorrivera@gmail.com](mailto:joseantoniopastorrivera@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jose-antonio-pastor-rivera)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun facts:**
-  - Techno DJ and creator of the *WeekCast* podcast under the alias **[@derHirteMusic](https://www.youtube.com/@derHirtemusic)**.
-  - League of Legends and Wild Rift player (Master II).
-  - Clash of Clans Co-Leader (Legend III). Maxed account.
-  - Passionate about getaways and traveling to discover new places.
-  - Sports enthusiast: padel, mountain biking (MTB), and gym workouts.
+2nd year **Multiplatform Application Development (DAM)** student at *IES Isidra de Guzmán*. Software & AI enthusiast: I publish my coursework, my Claude Code skills and my side projects here almost every day.
 
-### 📌 Featured Projects
+📍 Alcalá de Henares, Madrid · 🎓 DAM 2025-27 · 💼 Looking for internships · 📧 [joseantoniopastorrivera@gmail.com](mailto:joseantoniopastorrivera@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Antonio%20Pastor-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-pastor-rivera)
+[![YouTube](https://img.shields.io/badge/YouTube-@derHirteMusic-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@derHirtemusic)
+[![GitHub followers](https://img.shields.io/github/followers/joseantoniopastorrivera-dev?style=flat&logo=github&label=followers)](https://github.com/joseantoniopastorrivera-dev)
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Recent projects
+
+> *Sorted by last push · updated daily*
+
+<!-- projects starts -->
+* [business-management-systems](https://github.com/joseantoniopastorrivera-dev/business-management-systems) - ERP coursework with Odoo 17: installation, configuration, modules and custom development… · `Python` · 2026-11-24
+* [github-workflow-lab](https://github.com/joseantoniopastorrivera-dev/github-workflow-lab) - Lab to practice branches, issues, pull requests, merges and CI with git and gh · 2026-11-24
+* [diabetes-tracker-app](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app) - Telegram bot that logs diabetes data from text, voice notes and sensor screenshots with… · `Python` · 2026-11-24
+* [derHirte-project](https://github.com/joseantoniopastorrivera-dev/derHirte-project) - Official derHirte hub: website, WeekCast podcast resources and project materials · `HTML` · 2026-11-24
+* [claude-code-skills](https://github.com/joseantoniopastorrivera-dev/claude-code-skills) - Personal Claude Code plugin marketplace: music library organizer, phase-based development… · `Python` · 2026-11-24
+* [interface-development](https://github.com/joseantoniopastorrivera-dev/interface-development) - HCI, usability, accessibility and user interfaces (Java Swing and web) coursework for 2nd… · `Java` · 2026-11-22
+* [services-and-processes-programming](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming) - Multithreading, concurrent processes, network sockets and secure services coursework for… · `Java` · 2026-11-20
+* [multimedia-and-mobile-programming](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming) - C# programming, Unity game engine and multimedia development coursework for 2nd year of… · `C#` · 2026-11-20
+<!-- projects ends -->
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Latest commits
+
+> *What I shipped most recently*
+
+<!-- commits starts -->
+* [docs(SGE): describe la práctica integradora v4 en el README](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/ad580238db47e8025a257ab3d5d2f07ac07479f0) in **business-management-systems** · 2026-11-24
+* [feat(SGE): añade la memoria completa en OpenDocument de la práctica integradora…](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/a2ee2befd8adb6207008f3cd6cb31aeb8790baea) in **business-management-systems** · 2026-11-24
+* [feat(SGE): añade la memoria completa en Word de la práctica integradora v4](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/21ef49e54e24ba68a519c385ad8f7bafe8bb854d) in **business-management-systems** · 2026-11-24
+* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/github-workflow-lab/commit/249dd56f1d6f2a7b5411006eae49caf958076b68) in **github-workflow-lab** · 2026-11-24
+* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app/commit/3ed6b38f5947130fdbe1cb665b953603fabb8dba) in **diabetes-tracker-app** · 2026-11-24
+* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/derHirte-project/commit/3c5f6a97a8cdabebe5b10759fb03d2c32071fee5) in **derHirte-project** · 2026-11-24
+* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/claude-code-skills/commit/71c792aa937da4257e8b96121449d18570231be8) in **claude-code-skills** · 2026-11-24
+* [docs: CLAUDE.md apunta a forge-skill y finalize-skill en skill-lifecycle](https://github.com/joseantoniopastorrivera-dev/claude-code-skills/commit/694ed6e08ace6171fb63481989a48c473b6acbe6) in **claude-code-skills** · 2026-11-23
+<!-- commits ends -->
+
+</td>
+</tr>
+</table>
+
+---
+
+<details open>
+<summary><h2>👋 About me</h2></summary>
+
+- 🔭 **I'm currently working on:**
+  - **[Federico (diabetes-tracker-app)](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app):** an intelligent multimodal Telegram assistant built with the Google Gemini API, SQLite and Python for daily clinical and nutritional tracking.
+  - **[claude-code-skills](https://github.com/joseantoniopastorrivera-dev/claude-code-skills):** my own plugin marketplace of Claude Code skills.
+  - **A Pokémon-style video game in Unity 6 and C#:** a class project at an early stage, built on the groundwork in [my PMDM repository](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming).
+  - **My Final Degree Project (TFG):** a lost-and-found recovery system using QR codes linked to databases.
+- 🌱 **I'm currently learning:** Data Access (files, JDBC), Services and Processes (Java threads, sockets), Interface Development (Swing with NetBeans), Multimedia and Mobile Programming (C#, Unity), Enterprise Management Systems (Odoo 17), Cybersecurity (Python, Docker) and Digitalization. Also AI pathways on Google Cloud Skills Boost.
+- 💼 **Open to work:** seeking internships this year in software development, databases or tech environments.
+- 👯 **I'm looking to collaborate on:** software projects, cross-platform apps or interesting tech initiatives.
+- 💬 **Ask me about:** Java (JDBC, concurrency, Swing), Python, SQL/MySQL, Unity, Claude Code skills or my class repositories.
+- ⚡ **Fun facts:** techno DJ and creator of the *WeekCast* podcast as **[@derHirteMusic](https://www.youtube.com/@derHirtemusic)** · League of Legends and Wild Rift player (Master II) · Clash of Clans co-leader (Legend III) · padel, MTB and gym · always planning the next getaway.
+
+</details>
+
+<details open>
+<summary><h2>📌 Featured projects</h2></summary>
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🩺 [diabetes-tracker-app](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app) | Personal Telegram bot for diabetes tracking | Python, Gemini API, SQLite, pytest |
+| 🩺 [diabetes-tracker-app](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app) | Telegram bot that logs diabetes data from text, voice notes and sensor screenshots with AI | Python, Gemini API, SQLite, pytest |
 | 🧩 [claude-code-skills](https://github.com/joseantoniopastorrivera-dev/claude-code-skills) | Plugin marketplace with my own Claude Code skills | Markdown, Python |
+| 🎧 [derHirte-project](https://github.com/joseantoniopastorrivera-dev/derHirte-project) | Website of my derHirte brand and WeekCast podcast | HTML, CSS, JavaScript |
+| 🔀 [github-workflow-lab](https://github.com/joseantoniopastorrivera-dev/github-workflow-lab) | Lab to practice branches, issues, pull requests and CI | Git, gh, GitHub Actions |
 | 📦 [data-access](https://github.com/joseantoniopastorrivera-dev/data-access) | DataStock: stock management with files, JDBC and reusable components | Java, Maven, JUnit 5, MySQL |
-| 🎧 [derHirte-project](https://github.com/joseantoniopastorrivera-dev/derHirte-project) | Website of my WeekCast brand and podcast | HTML, CSS, JavaScript |
+| 🚗 [odoo-driving-school](https://github.com/joseantoniopastorrivera-dev/odoo-driving-school) | Driving school management module for Odoo 17 | Odoo 17, Python |
 
-### 🛠️ Tech Stack & Tools
+</details>
+
+<details>
+<summary><h2>🎓 DAM coursework</h2></summary>
+
+| Year | Repositories |
+|---|---|
+| 1st | [java-programming](https://github.com/joseantoniopastorrivera-dev/java-programming) · [python-programming](https://github.com/joseantoniopastorrivera-dev/python-programming) · [mysql-databases](https://github.com/joseantoniopastorrivera-dev/mysql-databases) · [markup-languages](https://github.com/joseantoniopastorrivera-dev/markup-languages) · [development-environments](https://github.com/joseantoniopastorrivera-dev/development-environments) · [computer-systems](https://github.com/joseantoniopastorrivera-dev/computer-systems) · [personal-employability-pathway-i](https://github.com/joseantoniopastorrivera-dev/personal-employability-pathway-i) |
+| 2nd | [data-access](https://github.com/joseantoniopastorrivera-dev/data-access) · [services-and-processes-programming](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming) · [interface-development](https://github.com/joseantoniopastorrivera-dev/interface-development) · [multimedia-and-mobile-programming](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming) · [business-management-systems](https://github.com/joseantoniopastorrivera-dev/business-management-systems) · [digitalization-of-productive-sectors](https://github.com/joseantoniopastorrivera-dev/digitalization-of-productive-sectors) · [sustainability-in-productive-systems](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems) · [professional-english](https://github.com/joseantoniopastorrivera-dev/professional-english) · [personal-employability-pathway-ii](https://github.com/joseantoniopastorrivera-dev/personal-employability-pathway-ii) |
+
+</details>
+
+<details>
+<summary><h2>🛠️ Tech stack & tools</h2></summary>
 
 **Languages**
 <p align="left">
@@ -71,44 +136,71 @@ Hi! I'm **José Antonio Pastor Rivera**, a 2nd year Multiplatform Application De
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Odoo%2017-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo 17" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
+</details>
+
 ---
 
-### 👋 Sobre mí
-¡Hola! Soy **José Antonio Pastor Rivera**, estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Apasionado del desarrollo de software y la programación.
+<details open>
+<summary><h2>📊 Stats</h2></summary>
 
-- 🔭 **Actualmente estoy trabajando en:**
-  - **[Federico (diabetes-tracker-app)](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app):** Asistente inteligente multimodal para Telegram desarrollado con la API de Google Gemini, SQLite y Python, enfocado en el seguimiento clínico y nutricional diario.
-  - **Un videojuego estilo Pokémon en Unity 6 y C#:** proyecto de clase en fase inicial. La base de C# y Unity está en [mi repositorio de PMDM](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming) y quiero seguir desarrollándolo por mi cuenta.
+<a href="https://github.com/joseantoniopastorrivera-dev">
+  <img width="49%" src="metrics/header.svg" alt="GitHub profile overview" />
+</a>
+<a href="https://github.com/joseantoniopastorrivera-dev?tab=repositories">
+  <img width="49%" src="metrics/repositories.svg" alt="Repository statistics" />
+</a>
+<a href="https://github.com/joseantoniopastorrivera-dev">
+  <img width="49%" src="metrics/activity.svg" alt="GitHub activity and community contributions" />
+</a>
+<a href="https://github.com/joseantoniopastorrivera-dev">
+  <img width="49%" src="metrics/calendar.svg" alt="3D contribution calendar for the past six months" />
+</a>
+<a href="https://github.com/joseantoniopastorrivera-dev">
+  <img width="49%" src="metrics/languages.svg" alt="Most used languages and issue and pull request follow-up" />
+</a>
+<a href="https://github.com/joseantoniopastorrivera-dev">
+  <img width="49%" src="metrics/habits.svg" alt="Coding habits by day and hour in Madrid time" />
+</a>
+<a href="https://github.com/joseantoniopastorrivera-dev">
+  <img width="49%" src="metrics/achievements.svg" alt="GitHub achievements" />
+</a>
+
+Updated daily with [Metrics](https://github.com/lowlighter/metrics). Public data only. Inspired by [@jessfraz](https://github.com/jessfraz/jessfraz) and [@harperreed](https://github.com/harperreed/harperreed).
+
+</details>
+
+---
+
+<details>
+<summary><h2>🇪🇸 Versión en español</h2></summary>
+
+¡Hola! Soy **José Antonio Pastor Rivera**, estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM) en el *IES Isidra de Guzmán* (Alcalá de Henares, Madrid). Me apasionan el desarrollo de software y la IA, y publico aquí casi a diario mis prácticas, mis skills de Claude Code y mis proyectos personales.
+
+- 🔭 **Ahora mismo trabajo en:**
+  - **[Federico (diabetes-tracker-app)](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app):** asistente inteligente multimodal para Telegram con la API de Google Gemini, SQLite y Python, para el seguimiento clínico y nutricional diario.
+  - **[claude-code-skills](https://github.com/joseantoniopastorrivera-dev/claude-code-skills):** mi marketplace de plugins con skills propias de Claude Code.
+  - **Un videojuego estilo Pokémon en Unity 6 y C#:** proyecto de clase en fase inicial, sobre la base de [mi repositorio de PMDM](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming).
   - **Mi Proyecto de Fin de Grado (TFG):** un sistema de recuperación de objetos perdidos mediante códigos QR asociados a bases de datos.
-- 🌱 **En este momento estoy aprendiendo:**
-  - Tecnologías de 2º de DAM: Acceso a Datos (ficheros, JDBC), Programación de Servicios y Procesos (procesos e hilos en Java), Desarrollo de Interfaces (Swing con NetBeans), Programación Multimedia y Dispositivos Móviles (C#, Unity), Sistemas de Gestión Empresarial (Odoo 17), Ciberseguridad (Python, Docker) y Digitalización.
-  - Itinerarios y skill badges de Inteligencia Artificial en Google Cloud Skills Boost, con la ilusión de enfocar mi futuro profesional hacia el entrenamiento de modelos de IA.
-- 💼 **Estoy buscando:** **Prácticas para este año** en desarrollo de software, bases de datos o entornos tecnológicos. ¡Abierto a nuevas oportunidades profesionales!
-- 👯 **Me gustaría colaborar en:** Proyectos de desarrollo de software, aplicaciones multiplataforma o iniciativas tecnológicas interesantes.
+- 🌱 **Estoy aprendiendo:** Acceso a Datos (ficheros, JDBC), Servicios y Procesos (hilos y sockets en Java), Desarrollo de Interfaces (Swing con NetBeans), Programación Multimedia y Dispositivos Móviles (C#, Unity), Sistemas de Gestión Empresarial (Odoo 17), Ciberseguridad (Python, Docker) y Digitalización. También itinerarios de IA en Google Cloud Skills Boost.
+- 💼 **Busco:** prácticas este curso en desarrollo de software, bases de datos o entornos tecnológicos.
+- 👯 **Me gustaría colaborar en:** proyectos de software, aplicaciones multiplataforma o iniciativas tecnológicas interesantes.
 - 💬 **Pregúntame sobre:** Java (JDBC, concurrencia, Swing), Python, SQL/MySQL, Unity, skills de Claude Code o mis repositorios de clase.
-- 📫 **Cómo encontrarme:** [joseantoniopastorrivera@gmail.com](mailto:joseantoniopastorrivera@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jose-antonio-pastor-rivera)
-- 😄 **Pronombres:** Él
-- ⚡ **Cosas curiosas:**
-  - DJ de techno y creador del podcast *WeekCast* bajo el alias **[@derHirteMusic](https://www.youtube.com/@derHirtemusic)**.
-  - Jugador de League of Legends y Wild Rift (Master II).
-  - Colíder de Clash of Clans (Legend III). Cuenta al máximo.
-  - Apasionado de las escapadas y de viajar para descubrir nuevos sitios.
-  - Aficionado al pádel, la bicicleta de montaña y el gimnasio.
+- ⚡ **Cosas curiosas:** DJ de techno y creador del podcast *WeekCast* como **[@derHirteMusic](https://www.youtube.com/@derHirtemusic)** · jugador de League of Legends y Wild Rift (Master II) · colíder de Clash of Clans (Legend III) · pádel, bici de montaña y gimnasio · siempre planeando la próxima escapada.
 
-### 📌 Proyectos destacados
+Las secciones de proyectos recientes, últimos commits y estadísticas se actualizan solas cada día.
 
-| Proyecto | Qué es | Tecnologías |
-|---|---|---|
-| 🩺 [diabetes-tracker-app](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app) | Bot de Telegram personal para el seguimiento de la diabetes | Python, API de Gemini, SQLite, pytest |
-| 🧩 [claude-code-skills](https://github.com/joseantoniopastorrivera-dev/claude-code-skills) | Marketplace de plugins con mis skills de Claude Code | Markdown, Python |
-| 📦 [data-access](https://github.com/joseantoniopastorrivera-dev/data-access) | DataStock: gestión de stock con ficheros, JDBC y componentes reutilizables | Java, Maven, JUnit 5, MySQL |
-| 🎧 [derHirte-project](https://github.com/joseantoniopastorrivera-dev/derHirte-project) | Web de mi marca y podcast WeekCast | HTML, CSS, JavaScript |
+</details>
 
-### 🛠️ Tecnologías y herramientas
+---
 
-Las mismas insignias de la sección *Tech Stack & Tools* de arriba: lenguajes, ecosistema Java, datos e IA, y sistemas, herramientas y videojuegos.
+- 📫 How to reach me: [joseantoniopastorrivera@gmail.com](mailto:joseantoniopastorrivera@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jose-antonio-pastor-rivera)
+- 😄 Pronouns: he/him · él
+- 📍 Locale: Alcalá de Henares, Madrid, Spain
+- 🌐 Languages: Spanish, English
+
+<sub>This README updates itself every day with a GitHub Action, inspired by [@simonw](https://github.com/simonw)'s [self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).</sub>

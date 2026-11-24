@@ -1,0 +1,5 @@
+# Files run or applied on the Linux runner must keep LF line endings
+*.sh text eol=lf
+*.patch text eol=lf
+*.yml text eol=lf
+*.py text eol=lf

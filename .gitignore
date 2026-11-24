@@ -1,0 +1,6 @@
+# Defence guides stay local, never on GitHub
+guia-defensa-*.md
+
+# Python bytecode
+__pycache__/
+*.pyc

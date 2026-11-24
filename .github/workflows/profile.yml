@@ -1,0 +1,111 @@
+# Refresh the profile every day: seven Metrics cards plus the README sections
+# with my latest repositories and commits, all saved in a single commit.
+name: Profile
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # every day at 05:17 UTC (06:17 in Madrid in winter)
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+  push:
+    paths:
+      - .github/workflows/profile.yml
+      - .github/actions/profile-metrics/**
+      - scripts/build_readme.py
+
+concurrency:
+  group: profile-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh stats and recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check the metrics token
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [[ -z "$METRICS_TOKEN" ]]; then
+            echo "::error::Add the METRICS_TOKEN repository secret (classic token, no scopes)."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+
+      - name: Build the patched Metrics image
+        run: bash .github/actions/profile-metrics/build-image.sh
+
+      - name: Render profile overview
+        uses: ./.github/actions/profile-metrics
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: header
+          base: header
+
+      - name: Render repository statistics
+        uses: ./.github/actions/profile-metrics
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: repositories
+          base: repositories
+
+      - name: Render activity and community
+        uses: ./.github/actions/profile-metrics
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: activity
+          base: activity, community
+
+      - name: Render contribution calendar
+        uses: ./.github/actions/profile-metrics
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: calendar
+
+      - name: Render languages and issue/PR follow-up
+        uses: ./.github/actions/profile-metrics
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: languages
+
+      - name: Render coding habits
+        uses: ./.github/actions/profile-metrics
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: habits
+
+      - name: Render achievements
+        uses: ./.github/actions/profile-metrics
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          card: achievements
+
+      - name: Copy the cards into the repository
+        run: |
+          mkdir -p metrics
+          sudo cp /metrics_renders/*.svg metrics/
+          sudo chown "$(id -u):$(id -g)" metrics/*.svg
+          ls -l metrics
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Update recent projects and commits in the README
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/build_readme.py README.md
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics README.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed today."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh stats and recent activity"
+          git push
