@@ -19,14 +19,14 @@
 > *Sorted by last push · updated daily*
 
 <!-- projects starts -->
-* [business-management-systems](https://github.com/joseantoniopastorrivera-dev/business-management-systems) - ERP coursework with Odoo 17: installation, configuration, modules and custom development… · `JavaScript` · 2026-11-24
-* [github-workflow-lab](https://github.com/joseantoniopastorrivera-dev/github-workflow-lab) - Lab to practice branches, issues, pull requests, merges and CI with git and gh · 2026-11-24
-* [diabetes-tracker-app](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app) - Telegram bot that logs diabetes data from text, voice notes and sensor screenshots with… · `Python` · 2026-11-24
-* [derHirte-project](https://github.com/joseantoniopastorrivera-dev/derHirte-project) - Official derHirte hub: website, WeekCast podcast resources and project materials · `HTML` · 2026-11-24
-* [claude-code-skills](https://github.com/joseantoniopastorrivera-dev/claude-code-skills) - Personal Claude Code plugin marketplace: music library organizer, phase-based development… · `Python` · 2026-11-24
-* [interface-development](https://github.com/joseantoniopastorrivera-dev/interface-development) - HCI, usability, accessibility and user interfaces (Java Swing and web) coursework for 2nd… · `Java` · 2026-11-22
-* [services-and-processes-programming](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming) - Multithreading, concurrent processes, network sockets and secure services coursework for… · `Java` · 2026-11-20
-* [multimedia-and-mobile-programming](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming) - C# programming, Unity game engine and multimedia development coursework for 2nd year of… · `C#` · 2026-11-20
+* [interface-development](https://github.com/joseantoniopastorrivera-dev/interface-development) - HCI, usability, accessibility and user interfaces (Java Swing and web) coursework for 2nd… · `Java` · 2026-11-24
+* [sustainability-in-productive-systems](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems) - Applied sustainability coursework: eco-efficiency, circular economy and environmental… · 2026-11-24
+* [python-programming](https://github.com/joseantoniopastorrivera-dev/python-programming) - Python programming coursework: exercises, collections, OOP and SQLite databases for 1st… · `Python` · 2026-11-24
+* [services-and-processes-programming](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming) - Multithreading, concurrent processes, network sockets and secure services coursework for… · `Java` · 2026-11-24
+* [multimedia-and-mobile-programming](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming) - C# programming, Unity game engine and multimedia development coursework for 2nd year of… · `C#` · 2026-11-24
+* [java-programming](https://github.com/joseantoniopastorrivera-dev/java-programming) - Java programming coursework, exercises and projects for 1st year of DAM · `Java` · 2026-11-24
+* [professional-english](https://github.com/joseantoniopastorrivera-dev/professional-english) - Technical English coursework: reading, grammar, vocabulary and professional communication… · 2026-11-24
+* [personal-employability-pathway-ii](https://github.com/joseantoniopastorrivera-dev/personal-employability-pathway-ii) - Entrepreneurship project (Diabetes Tracker App business plan) and job search coursework… · 2026-11-24
 <!-- projects ends -->
 
 </td>
@@ -37,14 +37,14 @@
 > *What I shipped most recently*
 
 <!-- commits starts -->
-* [docs(SGE): describe la práctica integradora v4 en el README](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/ad580238db47e8025a257ab3d5d2f07ac07479f0) in **business-management-systems** · 2026-11-24
-* [feat(SGE): añade la memoria completa en OpenDocument de la práctica integradora…](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/a2ee2befd8adb6207008f3cd6cb31aeb8790baea) in **business-management-systems** · 2026-11-24
-* [feat(SGE): añade la memoria completa en Word de la práctica integradora v4](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/21ef49e54e24ba68a519c385ad8f7bafe8bb854d) in **business-management-systems** · 2026-11-24
-* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/github-workflow-lab/commit/249dd56f1d6f2a7b5411006eae49caf958076b68) in **github-workflow-lab** · 2026-11-24
-* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/diabetes-tracker-app/commit/3ed6b38f5947130fdbe1cb665b953603fabb8dba) in **diabetes-tracker-app** · 2026-11-24
-* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/derHirte-project/commit/3c5f6a97a8cdabebe5b10759fb03d2c32071fee5) in **derHirte-project** · 2026-11-24
-* [chore(claude): credit Claude as co-author of commits](https://github.com/joseantoniopastorrivera-dev/claude-code-skills/commit/71c792aa937da4257e8b96121449d18570231be8) in **claude-code-skills** · 2026-11-24
-* [docs: CLAUDE.md apunta a forge-skill y finalize-skill en skill-lifecycle](https://github.com/joseantoniopastorrivera-dev/claude-code-skills/commit/694ed6e08ace6171fb63481989a48c473b6acbe6) in **claude-code-skills** · 2026-11-23
+* [Merge pull request #2 from joseantoniopastorrivera-dev/fix-theory-diagrams](https://github.com/joseantoniopastorrivera-dev/interface-development/commit/b680cb7e640410952f97f23e4a503b711f9607a6) in **interface-development** · 2026-11-24
+* [fix(DI): realign Norman and Gestalt diagrams in the theory review](https://github.com/joseantoniopastorrivera-dev/interface-development/commit/2eac65ed06b5551a360cde438cbe81ae9b09d3d0) in **interface-development** · 2026-11-24
+* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems/commit/2f88edfb85f0b680d3bf9fa389570607a35d98e4) in **sustainability-in-productive-systems** · 2026-11-24
+* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/python-programming/commit/ad6282cecf9068d89d352c54fa4bdb9dddf05105) in **python-programming** · 2026-11-24
+* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming/commit/b34731788a7603b96cffa4fb37b9ed71a317f2d2) in **services-and-processes-programming** · 2026-11-24
+* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming/commit/01661b6cca1902672f39fc4cce843ac8e8aab713) in **multimedia-and-mobile-programming** · 2026-11-24
+* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/interface-development/commit/d908b9eca092840852237b0e986a4c4223d8515a) in **interface-development** · 2026-11-24
+* [docs(claude): add the pull request workflow rule](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems/commit/c72329b78799a6b9d2234bb176b13a0ccc8921ee) in **sustainability-in-productive-systems** · 2026-11-24
 <!-- commits ends -->
 
 </td>
