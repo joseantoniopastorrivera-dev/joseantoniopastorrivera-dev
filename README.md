@@ -19,14 +19,14 @@
 > *Sorted by last push · updated daily*
 
 <!-- projects starts -->
-* [interface-development](https://github.com/joseantoniopastorrivera-dev/interface-development) - HCI, usability, accessibility and user interfaces (Java Swing and web) coursework for 2nd… · `Java` · 2026-11-24
-* [sustainability-in-productive-systems](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems) - Applied sustainability coursework: eco-efficiency, circular economy and environmental… · 2026-11-24
-* [python-programming](https://github.com/joseantoniopastorrivera-dev/python-programming) - Python programming coursework: exercises, collections, OOP and SQLite databases for 1st… · `Python` · 2026-11-24
-* [services-and-processes-programming](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming) - Multithreading, concurrent processes, network sockets and secure services coursework for… · `Java` · 2026-11-24
-* [multimedia-and-mobile-programming](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming) - C# programming, Unity game engine and multimedia development coursework for 2nd year of… · `C#` · 2026-11-24
-* [java-programming](https://github.com/joseantoniopastorrivera-dev/java-programming) - Java programming coursework, exercises and projects for 1st year of DAM · `Java` · 2026-11-24
-* [professional-english](https://github.com/joseantoniopastorrivera-dev/professional-english) - Technical English coursework: reading, grammar, vocabulary and professional communication… · 2026-11-24
-* [personal-employability-pathway-ii](https://github.com/joseantoniopastorrivera-dev/personal-employability-pathway-ii) - Entrepreneurship project (Diabetes Tracker App business plan) and job search coursework… · 2026-11-24
+* [business-management-systems](https://github.com/joseantoniopastorrivera-dev/business-management-systems) - ERP coursework with Odoo 17: installation, configuration, modules and custom development… · `JavaScript` · 2026-11-27
+* [sustainability-in-productive-systems](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems) - Applied sustainability coursework: eco-efficiency, circular economy and environmental… · 2026-11-27
+* [services-and-processes-programming](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming) - Multithreading, concurrent processes, network sockets and secure services coursework for… · `Java` · 2026-11-27
+* [python-programming](https://github.com/joseantoniopastorrivera-dev/python-programming) - Python programming coursework: exercises, collections, OOP and SQLite databases for 1st… · `Python` · 2026-11-27
+* [professional-english](https://github.com/joseantoniopastorrivera-dev/professional-english) - Technical English coursework: reading, grammar, vocabulary and professional communication… · 2026-11-27
+* [personal-employability-pathway-ii](https://github.com/joseantoniopastorrivera-dev/personal-employability-pathway-ii) - Entrepreneurship project (Diabetes Tracker App business plan) and job search coursework… · 2026-11-27
+* [personal-employability-pathway-i](https://github.com/joseantoniopastorrivera-dev/personal-employability-pathway-i) - Labor law, occupational risk prevention, career planning and CVs coursework for 1st year… · 2026-11-27
+* [mysql-databases](https://github.com/joseantoniopastorrivera-dev/mysql-databases) - Database design, SQL programming and administration coursework for 1st year of DAM · 2026-11-27
 <!-- projects ends -->
 
 </td>
@@ -37,14 +37,14 @@
 > *What I shipped most recently*
 
 <!-- commits starts -->
-* [Merge pull request #2 from joseantoniopastorrivera-dev/fix-theory-diagrams](https://github.com/joseantoniopastorrivera-dev/interface-development/commit/b680cb7e640410952f97f23e4a503b711f9607a6) in **interface-development** · 2026-11-24
-* [fix(DI): realign Norman and Gestalt diagrams in the theory review](https://github.com/joseantoniopastorrivera-dev/interface-development/commit/2eac65ed06b5551a360cde438cbe81ae9b09d3d0) in **interface-development** · 2026-11-24
-* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems/commit/2f88edfb85f0b680d3bf9fa389570607a35d98e4) in **sustainability-in-productive-systems** · 2026-11-24
-* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/python-programming/commit/ad6282cecf9068d89d352c54fa4bdb9dddf05105) in **python-programming** · 2026-11-24
-* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming/commit/b34731788a7603b96cffa4fb37b9ed71a317f2d2) in **services-and-processes-programming** · 2026-11-24
-* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/multimedia-and-mobile-programming/commit/01661b6cca1902672f39fc4cce843ac8e8aab713) in **multimedia-and-mobile-programming** · 2026-11-24
-* [Merge pull request #1 from…](https://github.com/joseantoniopastorrivera-dev/interface-development/commit/d908b9eca092840852237b0e986a4c4223d8515a) in **interface-development** · 2026-11-24
-* [docs(claude): add the pull request workflow rule](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems/commit/c72329b78799a6b9d2234bb176b13a0ccc8921ee) in **sustainability-in-productive-systems** · 2026-11-24
+* [Merge pull request #5 from…](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/c0a8022695573a766db3e83909da1c12d55bf1c0) in **business-management-systems** · 2026-11-27
+* [docs(SGE): regenerate the full v4 report in OpenDocument with the account 410…](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/0934f25a0a622f92d9121f46462fb148d6fb8857) in **business-management-systems** · 2026-11-27
+* [docs(SGE): regenerate the full v4 report in Word with the account 410 fix](https://github.com/joseantoniopastorrivera-dev/business-management-systems/commit/99eddd79abe8582b9b7b3f3bee6f34cb6655a2d1) in **business-management-systems** · 2026-11-27
+* [Merge pull request #3 from joseantoniopastorrivera-dev/docs-claude-md-cleanup](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems/commit/898043b270c05c1e561a74192ccf6de70e1b6599) in **sustainability-in-productive-systems** · 2026-11-27
+* [Merge pull request #4 from joseantoniopastorrivera-dev/docs-claude-md-cleanup](https://github.com/joseantoniopastorrivera-dev/services-and-processes-programming/commit/fd0e5ff512967e2eb90ad4bd42feca012e00dd24) in **services-and-processes-programming** · 2026-11-27
+* [Merge pull request #3 from joseantoniopastorrivera-dev/docs-claude-md-cleanup](https://github.com/joseantoniopastorrivera-dev/python-programming/commit/47899aadc51961a227ca7fdcf55e9aa7fdada88e) in **python-programming** · 2026-11-27
+* [Merge pull request #3 from joseantoniopastorrivera-dev/docs-claude-md-cleanup](https://github.com/joseantoniopastorrivera-dev/professional-english/commit/d100db247c29c81837af9cbefe91b57311161189) in **professional-english** · 2026-11-27
+* [docs(claude): add the GitHub commit rule to the shared block](https://github.com/joseantoniopastorrivera-dev/sustainability-in-productive-systems/commit/9db5c28c8576b8fa348cdfc0ccfddf38bf16ecd6) in **sustainability-in-productive-systems** · 2026-11-27
 <!-- commits ends -->
 
 </td>
